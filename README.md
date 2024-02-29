@@ -30,6 +30,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkdin Badge](https://img.shields.io/badge/-MrunalPurohit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrunal-purohit-47904510b/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](	https://mail.google.com/mail/u/1/#inbox?compose=CllgCJqXxwrgLkjbCcVRwSpxsCNVLSLKQGhxRxxqwmFflssSdkRvssBWdLnmhLRhfTbPslNTKLB)
+- <whatsapp-button phone="7048341531" dialcode="91" text="hello!" label="Start Chat"></whatsapp-button>
 
 
 ---
