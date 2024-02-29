@@ -29,7 +29,8 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-MrunalPurohit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrunal-purohit-47904510b/)
+- :mailbox:How to reach me: [![Linkdin Badge](https://img.shields.io/badge/-MrunalPurohit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrunal-purohit-47904510b/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/in/purohit.mrunal1912@gmail.com)
+
 
 ---
 
