@@ -29,7 +29,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkdin Badge](https://img.shields.io/badge/-MrunalPurohit-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrunal-purohit-47904510b/) [![Gmail Badge](https://img.shields.io/badge/MrunalPurohit-D14836?style=for-the-badge&logo=gmail&logoColor=white)](	https://mail.google.com/mail/u/1/#inbox?compose=CllgCJqXxwrgLkjbCcVRwSpxsCNVLSLKQGhxRxxqwmFflssSdkRvssBWdLnmhLRhfTbPslNTKLB) [![Whatsapp Badge](https://img.shields.io/badge/MrunalPurohit-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/+91-7048341531)
+- :mailbox:How to reach me: [![Linkdin Badge](https://img.shields.io/badge/-MrunalPurohit-logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrunal-purohit-47904510b/) [![Gmail Badge](https://img.shields.io/badge/MrunalPurohit-D14836?style=for-the-badge&logo=gmail&logoColor=white)](	https://mail.google.com/mail/u/1/#inbox?compose=CllgCJqXxwrgLkjbCcVRwSpxsCNVLSLKQGhxRxxqwmFflssSdkRvssBWdLnmhLRhfTbPslNTKLB) [![Whatsapp Badge](https://img.shields.io/badge/MrunalPurohit-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/+91-7048341531)
 
 
 ---
@@ -38,7 +38,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kingsman119&theme=dark&background=000055)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsman119&layout=compact&theme=FDFF00)](https://github.com/anuraghazra/github-readme-stats)
-<!--vision-friendly-dark style=fla -->
+<!--vision-friendly-dark -blue?style=fla -->
 ---
 
 <div align="center">
