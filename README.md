@@ -34,7 +34,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kingsman119&theme=dark&background=FDFF00)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kingsman119&theme=dark&background=000000,text&color=yellow)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsman119&layout=compact&theme=FDFF00)](https://github.com/anuraghazra/github-readme-stats)
 <!--vision-friendly-dark -->
