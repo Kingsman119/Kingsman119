@@ -45,7 +45,8 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bharat <span class="flag-icon flag-icon-sun"></span>
+<span class="flag-icon flag-icon-sun flag-icon-ind"></span>.
 
 ---
 
