@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am a Front End Developer <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://in.pinterest.com/pin/indian-flag-png-transparent-vector--385972630576277482/)" width="30"> from India.
+I am a Front End Developer <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://in.pinterest.com/pin/indian-flag-png-transparent-vector--385972630576277482/)" width="30"> from Bharat
+<img src="https://in.pinterest.com/pin/indian-flag-png-transparent-vector--385972630576277482/" width="30">.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
@@ -44,8 +45,6 @@ I am a Front End Developer <img src="[https://media.giphy.com/media/WUlplcMpOCEm
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bharat.<img src="[https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png](https://in.pinterest.com/pin/indian-flag-png-transparent-vector--385972630576277482/)" width="10">
 
 ---
 
