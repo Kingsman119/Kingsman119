@@ -45,7 +45,7 @@ I am a Front End Developer <img src="[https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bharat.<img src="[https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png](https://in.pinterest.com/pin/indian-flag-png-transparent-vector--385972630576277482/)" width="10"/>
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bharat.<img src="[https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png](https://in.pinterest.com/pin/indian-flag-png-transparent-vector--385972630576277482/)" width="10">
 
 ---
 
