@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Front End Developer <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://in.pinterest.com/pin/indian-flag-png-transparent-vector--385972630576277482/)" width="30"> from India.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
