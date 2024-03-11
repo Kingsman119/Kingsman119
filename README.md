@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### HI THERE..👋
 <div id="header" alighn-"left"> 
-  <img src="https://www.pinpng.com/picture/iTTThx_com-ironman-styled-octocat-github-octocat-hd-png/" width="100"/>
+  <img src="[https://www.pinpng.com/picture/iTTThx_com-ironman-styled-octocat-github-octocat-hd-png/](https://www.pinpng.com/picture/iTTThx_com-ironman-styled-octocat-github-octocat-h)" width="100"/>
 </div> 
 
 
