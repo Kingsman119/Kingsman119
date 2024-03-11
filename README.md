@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am a Front End Developer <img src="[[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://in.pinterest.com/pin/indian-flag-png-transparent-vector--385972630576277482/)](https://pngtree.com/so/flag-of-india)" width="30"/> from Bharat
+I am a Front End Developer <img src="https://png.pngtree.com/png-vector/20210129/ourmid/pngtree-the-national-flag-of-india-png-image_2845292.jpg" width="30"/> from Bharat
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
