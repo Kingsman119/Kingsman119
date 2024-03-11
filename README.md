@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### HI THERE..👋
 <div id="header" alighn-"left"> 
-  <img src="[https://en.wikipedia.org/wiki/Flag_of_India](https://www.redbubble.com/i/poster/Flag-of-India-Hindustan-Hindustani-Bharat-%E0%A4%AD-%E0%A4%B0%E0%A4%A4-Indian-National-Country-Flag-by-states/22157289.LVTDI)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> 
 
 
