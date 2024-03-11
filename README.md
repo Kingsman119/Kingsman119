@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### HI THERE..👋
 <div id="header" alighn-"left"> 
-  <img src="(https://en.wikipedia.org/wiki/Flag_of_India)" width="100"/>
+  <img src="https://en.wikipedia.org/wiki/Flag_of_India" width="100"/>
 </div> 
 
 
